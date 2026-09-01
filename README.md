@@ -41,7 +41,7 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 <h3>💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,sql" />
+  <img src="https://skillicons.dev/icons?i=java,sql" />
 </p><h3>🤖 AI / Machine Learning</h3>
 
 <p align="center">
