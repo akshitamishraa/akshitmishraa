@@ -41,7 +41,7 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,sql" />
 </p>🤖 AI / Machine Learning
 
 <p align="center">
@@ -49,7 +49,7 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 </p>🌐 Web & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>🗄️ Database & Tools
 
 <p align="center">
@@ -59,7 +59,7 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 📚 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,git,github,vscode" />
 </p><p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>---
