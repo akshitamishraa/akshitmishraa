@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+%7C+Data+Science;Java+%7C+Python+%7C+SQL;Always+Learning+%26+Building+%F0%9F%9A%80" /></div>---
 
-<h4>👩‍💻 About Me</h4>
+<h3>👩‍💻 About Me</h3>
 
 I'm a Computer Science Engineering student passionate about Machine Learning, Data Science, Artificial Intelligence, and Software Development.
 
@@ -23,7 +23,7 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 
 ---
 
-<h4>🔭 Currently Exploring</h4>
+<h3>🔭 Currently Exploring</h3>
 
 - 🤖 Machine Learning
 - 📊 Data Science
@@ -36,9 +36,9 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 
 ---
 
-🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,sql" />
@@ -56,7 +56,7 @@ I enjoy turning ideas into practical projects and continuously improving my prog
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,jupyter" />
 </p>---
 
-📚 Skills
+<h3>📚 Skills</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,git,github,vscode" />
@@ -64,7 +64,7 @@ I enjoy turning ideas into practical projects and continuously improving my prog
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>---
 
-🌱 Currently Learning
+<h3>🌱 Currently Learning</h3>
 
 Machine Learning
 Data Science
@@ -79,7 +79,7 @@ Data Structures & Algorithms
 
 ---
 
-🎯 Goals
+<h3>🎯 Goals</h3>
 
 - 🚀 Become strong in Machine Learning & Data Science
 - 🧠 Build practical AI/ML projects
@@ -93,31 +93,31 @@ Data Structures & Algorithms
 
 ---
 
-📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshitamishraa&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>---
 
-🔥 GitHub Streak
+<h3>🔥 GitHub Streak</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akshitamishraa&theme=tokyonight&hide_border=true" />
 </p>---
 
-📈 Most Used Languages
+<h3>📈 Most Used Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitamishraa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>---
 
-🏆 GitHub Trophies
+<h3>🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akshitamishraa&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>---
 
-💡 My Learning Philosophy
+<h3>💡 My Learning Philosophy</h3>
 
 <div align="center">Learn → Build → Experiment → Improve → Repeat 🔁
 
@@ -125,7 +125,7 @@ Data Structures & Algorithms
 
 </div>---
 
-🤝 Let's Connect
+<h3>🤝 Let's Connect</h3>
 
 <p align="center"><a href="https://github.com/akshitamishraa">
   <img src="https://skillicons.dev/icons?i=github" width="50" />
