@@ -45,10 +45,7 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 </p><h3>🤖 AI / Machine Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy,matplotlib" />
 </p><h3>🌐 Web & Development</h3>
 
 <p align="center">
