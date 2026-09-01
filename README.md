@@ -1,4 +1,4 @@
-<div align="center">👋 Hi, I'm Akshita Mishra
+<div align="center"><h1>👋 Hi, I'm Akshita Mishra</h1>
 
 <h2>🎓 Btech CSE Student | 🤖 Machine Learning Enthusiast | 📊 Data Science Explorer</h2>
 
