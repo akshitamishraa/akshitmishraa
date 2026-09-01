@@ -127,10 +127,26 @@ Data Structures & Algorithms
 
 <h3>🤝 Let's Connect</h3>
 
-<p align="center"><a href="https://github.com/akshitamishraa">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
-</a></p><div align="center">⭐ Thanks for visiting my profile! ⭐
+<p align="center">
 
-Keep Learning • Keep Building • Keep Growing 🚀
+  <a href="https://github.com/akshitamishraa">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/akshita-mishra-643244377">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+
+  <a href="mailto:akshita9477@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+
+</p>
+
+<div align="center">
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>
