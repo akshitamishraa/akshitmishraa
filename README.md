@@ -42,15 +42,15 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,sql" />
-</p>🤖 AI / Machine Learning
+</p><h3>🤖 AI / Machine Learning</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>🌐 Web & Development
+</p><h3>🌐 Web & Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
-</p>🗄️ Database & Tools
+</p><h3>🗄️ Database & Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,jupyter" />
