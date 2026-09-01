@@ -1,6 +1,6 @@
 <div align="center">👋 Hi, I'm Akshita Mishra
 
-🎓 CSE Student | 🤖 Machine Learning Enthusiast | 📊 Data Science Explorer
+<h2>🎓 Btech CSE Student | 🤖 Machine Learning Enthusiast | 📊 Data Science Explorer</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+%7C+Data+Science;Java+%7C+Python+%7C+SQL;Always+Learning+%26+Building+%F0%9F%9A%80" /></div>---
 
