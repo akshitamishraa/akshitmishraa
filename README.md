@@ -50,6 +50,9 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" />
 </p><h3>🗄️ Database & Tools</h3>
 
 <p align="center">
