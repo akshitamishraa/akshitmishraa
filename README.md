@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+%7C+Data+Science;Java+%7C+Python+%7C+SQL;Always+Learning+%26+Building+%F0%9F%9A%80" /></div>---
 
-👩‍💻 About Me
+<h4>👩‍💻 About Me</h4>
 
 I'm a Computer Science Engineering student passionate about Machine Learning, Data Science, Artificial Intelligence, and Software Development.
 
@@ -23,7 +23,7 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 
 ---
 
-🔭 Currently Exploring
+<h4>🔭 Currently Exploring</h4>
 
 - 🤖 Machine Learning
 - 📊 Data Science
